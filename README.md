@@ -1,8 +1,8 @@
 # PCOD_SQL_PowerBI_Analysis
-This project analyzes a synthetic clinical dataset of 500 PCOD patients to uncover insights related to risk categorization, treatment adherence, and follow-up behavior using SQL and Power BI.
+This project analyzes a clinical dataset of 500 PCOD patients to uncover insights related to risk categorization, treatment adherence, and follow-up behavior using SQL and Power BI.
 
 ## Files in this Repository
-•⁠  ⁠⁠ PCOD_Synthetic_Data.csv ⁠ – Cleaned dataset for SQL analysis
+•⁠  ⁠⁠ PCOD_SQL Dataset.csv ⁠ – Cleaned dataset for SQL analysis
 •⁠  ⁠⁠ PCOD_Analysis_Queries.sql ⁠ – SQL logic for risk flagging, trends, stratification
 •⁠  ⁠⁠ queries_and_docs.md ⁠ – Full documentation, report, visuals guide
 •⁠  ⁠⁠ PCOD_Dashboard.pbix ⁠ – Power BI file (to be added after dashboard creation)
