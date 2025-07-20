@@ -20,3 +20,7 @@ SQL • Power BI • Excel • DAX • Python (data generation)
 •⁠  ⁠Adherence Breakdown
 •⁠  ⁠Follow-up Trends by OB/GYN
 •⁠  ⁠Interactive Filters (age, symptoms, provider)
+
+Contact
+For questions or suggestions, contact:
+Neha Kowtharapu - nehakowtharapu@gmail.com
